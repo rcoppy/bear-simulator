@@ -1,0 +1,10 @@
+compile.bat and run.bat are both located in the 'src' folder.
+
+They may not be compatible with Mac OSX. 
+
+compile.bat compiles the program as class files to the 'classes' folder.
+ 
+After compiling, run run.bat to launch the program. 
+
+Commands will display results in both the GUI and the command prompt - the 'help'
+command will be more legible in the command prompt because its output has line breaks.
